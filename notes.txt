@@ -1,0 +1,20 @@
+authentication module
+2. slot mapping 
+booking and timer module
+payment simulation
+admin dashboard
+
+
+front end :-
+
+authentication model
+role based project 
+
+
+base class is same and role will be changed 
+
+beckend :-
+
+admin pannel
+driver pannel
+parking provide
